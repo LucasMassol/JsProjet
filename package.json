@@ -1,0 +1,23 @@
+{
+  "name": "jsprojet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasMassol/JsProjet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasMassol/JsProjet/issues"
+  },
+  "homepage": "https://github.com/LucasMassol/JsProjet#readme",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
